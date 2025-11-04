@@ -1,0 +1,10 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+pymongo==4.4.0
+python-jose==3.3.0
+pydantic==1.11.1
+colorama==0.4.6
+prettytable==3.6.0
+art==5.9
+psutil==5.9.3
+
